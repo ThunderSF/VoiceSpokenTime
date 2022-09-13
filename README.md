@@ -4,10 +4,10 @@ Get a spoken version of a time. Especially useful for speaking the wait time. Wo
 
 The time is spoken in the given language with hours and minutes. If the time includes hours and the minutes are less than 5 then it rounds down to the hour. So the outputs would be like:
 
-125.54 = 2 hours 6 minutes
-123.65 = 2 hours
-120.00 = 2 hours
-50.44 = 50 minutes
+125.54 = 2 hours 6 minutes,
+123.65 = 2 hours,
+120.00 = 2 hours,
+50.44 = 50 minutes,
 1.22 = 1 minute
 
 ## Installation
